@@ -1,0 +1,7 @@
+git push origin main -> command to push local changes to remote repo
+
+git push – This command is used to upload your local commits to a remote repository.
+
+origin – This is the name of the remote. By default, origin refers to the repository you cloned from.
+
+main – This is the name of the branch you want to push. In modern Git, main is the default branch (replacing master).
