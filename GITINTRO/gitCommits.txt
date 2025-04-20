@@ -7,3 +7,6 @@ Git wants to keep commits as lightweight as possible though, so it doesn't just 
 Git also maintains a history of which commits were made when. That's why most commits have ancestor commits above them -- we designate this with arrows in our visualization. Maintaining history is great for everyone working on the project!
 
 It's a lot to take in, but for now you can think of commits as snapshots of the project. Commits are very lightweight and switching between them is wicked fast!
+
+summary:
+    commmit is used to save changes to remote repo
